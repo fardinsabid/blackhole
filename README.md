@@ -4,14 +4,12 @@
 
 <div align="center">
 
-[![PyPI version](https://img.shields.io/pypi/v/blackhole-opt?color=blue&style=for-the-badge)](https://pypi.org/project/blackhole-opt/)
 [![Python](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 [![Tests](https://img.shields.io/github/actions/workflow/status/fardinsabid/blackhole/tests.yml?style=for-the-badge&label=tests)](https://github.com/fardinsabid/blackhole/actions)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black?style=for-the-badge)](https://github.com/psf/black)
-[![Downloads](https://img.shields.io/pypi/dm/blackhole-opt?style=for-the-badge)](https://pypi.org/project/blackhole-opt/)
 [![Stars](https://img.shields.io/github/stars/fardinsabid/blackhole?style=for-the-badge&color=gold)](https://github.com/fardinsabid/blackhole)
 
 </div>
