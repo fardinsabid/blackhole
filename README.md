@@ -375,10 +375,10 @@ For a comprehensive mathematical derivation, convergence proofs, and extended ex
 If you use BlackHole in your research, please cite:
 
 ```bibtex
-@misc{sabid2024blackhole,
+@misc{sabid2026blackhole,
   author = {Fardin Sabid},
   title = {BlackHole: A General Relativity Approach to Optimization},
-  year = {2024},
+  year = {2026},
   publisher = {GitHub},
   howpublished = {\url{https://github.com/fardinsabid/blackhole}}
 }
