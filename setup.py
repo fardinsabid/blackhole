@@ -4,10 +4,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="blackhole",
+    name="blackhole-opt",
     version="1.0.0",
     author="Fardin Sabid",
-    author_email="fardin.sabid@research.ai",
+    author_email="contact.fardinsabid@gmail.com",
     description="General Relativity based optimizer that beats Adam/AdamW",
     long_description=long_description,
     long_description_content_type="text/markdown",

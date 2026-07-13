@@ -2,12 +2,19 @@
 
 **A General Relativity Approach to Gradient-Based Optimization**
 
-[![PyPI version](https://badge.fury.io/py/blackhole.svg)](https://badge.fury.io/py/blackhole)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org/)
-[![Tests](https://github.com/fardinsabid/blackhole/actions/workflows/tests.yml/badge.svg)](https://github.com/fardinsabid/blackhole/actions)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+<div align="center">
+
+[![PyPI version](https://img.shields.io/pypi/v/blackhole-opt?color=blue&style=for-the-badge)](https://pypi.org/project/blackhole-opt/)
+[![Python](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+[![Tests](https://img.shields.io/github/actions/workflow/status/fardinsabid/blackhole/tests.yml?style=for-the-badge&label=tests)](https://github.com/fardinsabid/blackhole/actions)
+[![Code Style](https://img.shields.io/badge/code%20style-black-black?style=for-the-badge)](https://github.com/psf/black)
+[![Downloads](https://img.shields.io/pypi/dm/blackhole-opt?style=for-the-badge)](https://pypi.org/project/blackhole-opt/)
+[![Stars](https://img.shields.io/github/stars/fardinsabid/blackhole?style=for-the-badge&color=gold)](https://github.com/fardinsabid/blackhole)
+
+</div>
 
 ---
 
@@ -148,7 +155,7 @@ For full mathematical derivation, see the [research paper](papers/BlackHole.pdf)
 ### From PyPI
 
 ```bash
-pip install blackhole
+pip install blackhole-opt
 ```
 
 ### From Source
