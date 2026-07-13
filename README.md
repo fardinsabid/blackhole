@@ -144,7 +144,7 @@ $$\phi_{\text{new}} = \phi + p_\phi \cdot 0.01$$
 
 Extra dimension correction:
 
-$$\text{extra\_dim} = \kappa \cdot \phi \cdot \text{sign}(\nabla \mathcal{L}) \cdot 0.01$$
+$$\mathrm{extra\_dim} = \kappa \cdot \phi \cdot \mathrm{sign}(\nabla \mathcal{L}) \cdot 0.01$$
 
 For full mathematical derivation, see the [research paper](papers/BlackHole.pdf).
 
