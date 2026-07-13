@@ -11,6 +11,7 @@
 [![Tests](https://img.shields.io/github/actions/workflow/status/fardinsabid/blackhole/tests.yml?style=for-the-badge&label=tests)](https://github.com/fardinsabid/blackhole/actions)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black?style=for-the-badge)](https://github.com/psf/black)
 [![Stars](https://img.shields.io/github/stars/fardinsabid/blackhole?style=for-the-badge&color=gold)](https://github.com/fardinsabid/blackhole)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21332438.svg)](https://doi.org/10.5281/zenodo.21332438)
 
 </div>
 
