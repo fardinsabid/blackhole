@@ -140,7 +140,7 @@ The 5th dimension acts as adaptive learning rate manifold:
 
 $$\partial^2 \phi = -4\Lambda \phi^3$$
 
-$$\phi_{\text{new}} = \phi + p_{\phi} \cdot 0.01$$
+$$\phi_{\text{new}} = \phi + p_\phi \cdot 0.01$$
 
 Extra dimension correction:
 
